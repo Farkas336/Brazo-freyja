@@ -1,0 +1,6 @@
+function [Tz] = Tz(d)
+%UNTITLED4 Summary of this function goes here
+%   Detailed explanation goes here
+Tz=[  1    0  0  0;   0    1  0  0; 0    0  1  d; 0    0  0  1];
+end
+
