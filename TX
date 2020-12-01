@@ -1,6 +1,0 @@
-% fUNCION PARA CALCULAR TX
-function [Tx] = Tx(d)
-%UNTITLED2 Summary of this function goes here
-%   Detailed explanation goes here
-Tx=[  1    0  0  d;   0    1  0  0; 0    0  1  0; 0    0  0  1];
-end
