@@ -10,5 +10,7 @@ Aqui se va a realizar un programa en Matlab con el que se va a agregar funciones
 # Instalacion y uso
 
 1- descargar el contenido de la carpeta funciones
+
 2- usarlas  en su propio programa 
-3- 
+
+ 
