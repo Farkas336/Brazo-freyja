@@ -25,8 +25,8 @@ La programacion se basa sobre arduino
 
 o NODMCU ESP32
 
-¡[alt text](https://raw.githubusercontent.com/Farkas336/Brazo-freyja/main/Diagramas/ESP8266-Node-MCU-Module.png)
+![alt text](https://raw.githubusercontent.com/Farkas336/Brazo-freyja/main/Diagramas/ESP8266-Node-MCU-Module.png)
 
 se puede usar cualquier servo que se quiera
 
-¡[alt text](https://raw.githubusercontent.com/Farkas336/Brazo-freyja/main/Diagramas/02-19.jpg)
+![alt text](https://raw.githubusercontent.com/Farkas336/Brazo-freyja/main/Diagramas/02-19.jpg)
