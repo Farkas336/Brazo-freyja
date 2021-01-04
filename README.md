@@ -1,9 +1,6 @@
 # Brazo-freyja
 
 
-
-brazo robotico test1
-
 Aqui se va a realizar un programa en Matlab con el que se va a agregar funciones de Denavit-Hatenberg 
 
 
