@@ -1,8 +1,14 @@
 # Brazo-freyja
 
+Integrantes de proyecto:
+Alejandro de Leo Martinez
+Daniel Sebastian Mejía Jasso
+Edward Novella Echeverria
+Diego Fernando Perdomo Vargas
+Gerardo Sanchez Caviglia
 
 
-brazo robotico test1
+Brazo robotico
 
 Aqui se va a realizar un programa en Matlab con el que se va a agregar funciones de Denavit-Hatenberg 
 
