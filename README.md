@@ -1,6 +1,9 @@
 # Brazo-freyja
 
 
+
+brazo robotico test1
+
 Aqui se va a realizar un programa en Matlab con el que se va a agregar funciones de Denavit-Hatenberg 
 
 
@@ -29,3 +32,18 @@ o NODMCU ESP32
 se puede usar cualquier servo que se quiera
 
 ![alt text](https://raw.githubusercontent.com/Farkas336/Brazo-freyja/main/Diagramas/02-19.jpg)
+
+
+Parte eléctrica:
+Servos:
+Para dar movimiento al brazo robótico imprimible se utilizan tres servomotores modelo S3003 y uno modelo S3305 todos ellos de la marca Futaba. Éstos se ocupan del movimiento de la base y los dos primeros eslabones. Además el brazo robótico cuenta con cuatro micro-servomotores cuyo modelo es el SG90 de TowerPro. Éste modelo, de reducido peso y tamaño, se emplea en el último eslabón y en la muñeca del robot. 
+
+Especificaciones especiales:
+Micro servo SG90:
+Tiene un conector universal tipo “S” que encaja perfectamente en la mayoría de los receptores de radio control incluyendo los Futaba, JR, GWS, Cirrus, Hitec y otros. 
+Los cables en el conector están distribuidos como: Rojo =Alimentación (+), Café = Alimentación (–) o tierra, Naranja= Señal PWM.
+Los requerimientos de energía son bastante bajos y se permite alimentarlo con la misma fuente de alimentación que el circuito de control.
+Micro servo S3305:
+Amplio uso en automóviles y embarcaciones que requieren servos de par alto y tamaño estándar. Dos rodamientos de bolas Motor de 3 polos. Conector estándar Futaba estilo J.
+Este servo puede producir un consumo de alta corriente de sus baterías. Si usa baterías de NiMH o LiPo, asegúrese de que sean capaces de entregar suficientes amperios.
+
