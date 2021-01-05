@@ -1,6 +1,6 @@
 # Brazo-freyja
 
-**Integrantes de proyecto:
+**Integrantes de proyecto:**
 
 
 Alejandro de Leo Martinez
