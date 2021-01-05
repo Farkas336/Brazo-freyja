@@ -17,8 +17,12 @@
 - Gerardo Sanchez Caviglia
 ```
 
-- [ ] prueba
-- [x] prueba2
+# Introducción 
+En la actualidad, los robots manipuladores se han convertido en base fundamental en la industria. Son utilizados para realizar las tareas a una mayor velocidad, precisión y para brindar mas seguridad a las personas que los manipulan.
+
+En el presente documento se presenta la elaboración de nuestro proyecto de la materia de Fundamentos de Robots Manipulaodres el cual lleva por nombre "Brazo Robótico Freyja", este robot, es un brazo manipulador con 3 grados de libertad.
+
+En este repertorio de documentos se encuetra toda la información utilizada para la creación del brazo Freyja por ejemplo simulaciones con Arduino para el movimiento de los servomotores, matrices de Denavit Hartenberg utilizadas, simulaciones de Peter Corke, entre mas información.
 
 ***Brazo robotico***
 
