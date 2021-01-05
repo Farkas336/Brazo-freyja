@@ -18,6 +18,7 @@ Integrantes de proyecto:
 ```
 
 - [ ] prueba
+- [x] prueba2
 
 Brazo robotico
 
