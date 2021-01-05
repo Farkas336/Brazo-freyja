@@ -83,7 +83,9 @@ La alimentación y la transmisión de datos desde el ordenador hacia el microcon
 # Morfología del robot:
 
 
-   ![alt text] (https://github.com/Farkas336/Brazo-freyja/blob/main/Imagenes/brazo-robot-arduino-7dof.png)
+![alt text] (https://github.com/Farkas336/Brazo-freyja/blob/main/Imagenes/brazo-robot-arduino-7dof.png)
+
+
 El robot puede estar formado por:
 Estructura mecánica, sistema de accionamiento y sistema de control.
 
