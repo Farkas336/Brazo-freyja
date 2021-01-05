@@ -58,10 +58,10 @@ se puede usar cualquier servo que se quiera
 
 # Parte eléctrica:
 
-Servos:
+>Servos:
 Para dar movimiento al brazo robótico imprimible se utilizan tres servomotores modelo S3003 y uno modelo S3305 todos ellos de la marca Futaba. Éstos se ocupan del movimiento de la base y los dos primeros eslabones. Además el brazo robótico cuenta con cuatro micro-servomotores cuyo modelo es el SG90 de TowerPro. Éste modelo, de reducido peso y tamaño, se emplea en el último eslabón y en la muñeca del robot. 
 
-Especificaciones especiales:
+>Especificaciones especiales:
 Micro servo SG90:
 Tiene un conector universal tipo “S” que encaja perfectamente en la mayoría de los receptores de radio control incluyendo los Futaba, JR, GWS, Cirrus, Hitec y otros. 
 Los cables en el conector están distribuidos como: Rojo =Alimentación (+), Café = Alimentación (–) o tierra, Naranja= Señal PWM.
@@ -71,6 +71,6 @@ Amplio uso en automóviles y embarcaciones que requieren servos de par alto y ta
 Este servo puede producir un consumo de alta corriente de sus baterías. Si usa baterías de NiMH o LiPo, asegúrese de que sean capaces de entregar suficientes amperios.
 
 
-Arduino UNO:
+>Arduino UNO:
 Utiliza un microprocesador ATMEGA328 del fabricante Atmel. Se han utilizado las salidas digitales y PWM para el control de los servomotores. 
 La alimentación y la transmisión de datos desde el ordenador hacia el microcontrolador se realizan mediante un cable USB. Los servomotores necesitan para su funcionamiento una señal de control de tipo PWM. El microcontrolador dispone de 14 salidas digitales de las cuales 6 proporcionan dicha señal PWM. No obstante, se podrán generar más salidas de ese tipo mediante el software interno.
