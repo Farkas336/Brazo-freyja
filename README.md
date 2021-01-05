@@ -18,17 +18,17 @@
 # Introducción 
 En la actualidad, los robots manipuladores se han convertido en base fundamental en la industria. Son utilizados para realizar las tareas a una mayor velocidad, precisión y para brindar mas seguridad a las personas que los manipulan.
 
-En el presente documento se presenta la elaboración de nuestro proyecto de la materia de Fundamentos de Robots Manipulaodres el cual lleva por nombre "Brazo Robótico Freyja", este robot, es un brazo manipulador con 3 grados de libertad.
+En el presente documento se presenta la elaboración de nuestro proyecto de la materia de Fundamentos de Robots Manipulaodres el cual lleva por nombre "Brazo Robótico Freyja", este robot, es un brazo manipulador.
 
 En este repertorio de documentos se encuetra toda la información utilizada para la creación del brazo Freyja por ejemplo simulaciones con Arduino para el movimiento de los servomotores, matrices de Denavit Hartenberg utilizadas, simulaciones de Peter Corke, entre mas información.
 
 # Brazo robotico
 
-***Ventajas del robot manipulador de 3 grados de libertad***
+***Ventajas del robot manipulador***
 
->El robot manipulador de 3 grados de libertad es capaz de realizar varias actividades si así se les programa para ello, ya que estos robots cuentan con una gran capacidad de precisión para lograr sus fines y tienen varios usos a la vez.
+>El robot manipulador es capaz de realizar varias actividades si así se les programa para ello, ya que estos robots cuentan con una gran capacidad de precisión para lograr sus fines y tienen varios usos a la vez.
 
->Durante la fabricación de algún producto en específico, el robot manipulador de 3 grados de libertad puede embotellar, etiquetar, organizar los productos y puede realizar lo que es el llenado de la botella con el producto, con el fin de prepararlo para el consumidor final.
+>Durante la fabricación de algún producto en específico, el robot manipulador puede embotellar, etiquetar, organizar los productos y puede realizar lo que es el llenado de la botella con el producto, con el fin de prepararlo para el consumidor final.
 
 Aqui se va a realizar un programa en Matlab con el que se va a agregar funciones de Denavit-Hatenberg 
 
