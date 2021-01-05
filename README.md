@@ -49,15 +49,9 @@ se busca que sea compatible con cualquier frame que se decida desarrollar
 
 La programacion se basa sobre arduino 
 
-![alt text](https://raw.githubusercontent.com/Farkas336/Brazo-freyja/main/Diagramas/a9bb15c7e822f66f57e039a918c56bc2.png)
 
-o NODMCU ESP32
 
-![alt text](https://raw.githubusercontent.com/Farkas336/Brazo-freyja/main/Diagramas/ESP8266-Node-MCU-Module.png)
 
-se puede usar cualquier servo que se quiera
-
-![alt text](https://raw.githubusercontent.com/Farkas336/Brazo-freyja/main/Diagramas/02-19.jpg)
 
 
 # Parte eléctrica:
@@ -74,10 +68,13 @@ Micro servo S3305:
 Amplio uso en automóviles y embarcaciones que requieren servos de par alto y tamaño estándar. Dos rodamientos de bolas Motor de 3 polos. Conector estándar Futaba estilo J.
 Este servo puede producir un consumo de alta corriente de sus baterías. Si usa baterías de NiMH o LiPo, asegúrese de que sean capaces de entregar suficientes amperios.
 
+![alt text](https://raw.githubusercontent.com/Farkas336/Brazo-freyja/main/Diagramas/02-19.jpg)
 
 >Arduino UNO:
 Utiliza un microprocesador ATMEGA328 del fabricante Atmel. Se han utilizado las salidas digitales y PWM para el control de los servomotores. 
 La alimentación y la transmisión de datos desde el ordenador hacia el microcontrolador se realizan mediante un cable USB. Los servomotores necesitan para su funcionamiento una señal de control de tipo PWM. El microcontrolador dispone de 14 salidas digitales de las cuales 6 proporcionan dicha señal PWM. No obstante, se podrán generar más salidas de ese tipo mediante el software interno.
+
+![alt text](https://raw.githubusercontent.com/Farkas336/Brazo-freyja/main/Diagramas/a9bb15c7e822f66f57e039a918c56bc2.png)
 
 
 # Morfología del robot:
