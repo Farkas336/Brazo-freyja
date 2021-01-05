@@ -12,8 +12,8 @@
 
 - Gerardo Sanchez Caviglia*
 ```
-![alt text](https://github.com/Cerberus1100010/Brazo-freyja/blob/main/Imagenes/68747470733a2f2f37382e6d656469612e74756d626c722e636f6d2f61326231633631386139366263316137663835633064663063326265636262382f74756d626c725f6d726f776368334d496e317362617633626f315f3530302e676966.gif
-)
+![alt text](https://github.com/Cerberus1100010/Brazo-freyja/blob/main/Imagenes/68747470733a2f2f37382e6d656469612e74756d626c722e636f6d2f61326231633631386139366263316137663835633064663063326265636262382f74756d626c725f6d726f776368334d496e317362617633626f315f3530302e676966.gif)
+
 
 # Introducción 
 En la actualidad, los robots manipuladores se han convertido en base fundamental en la industria. Son utilizados para realizar las tareas a una mayor velocidad, precisión y para brindar mas seguridad a las personas que los manipulan.
