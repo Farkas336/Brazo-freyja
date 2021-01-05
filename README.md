@@ -25,7 +25,7 @@
 Aqui se va a realizar un programa en Matlab con el que se va a agregar funciones de Denavit-Hatenberg 
 
 
-![alt text](https://raw.githubusercontent.com/Farkas336/Brazo-freyja/main/Imagenes/brazo-rob%C3%B3tico-aislado-en-el-fondo-blanco-ilustraci%C3%B3n-d-116378600.jpg)
+![alt text](https://github.com/Farkas336/Brazo-freyja/blob/main/Imagenes/l15252-industrial-robot-arm-53669.png)
 
 Esta serie de codigo tiene el objetivo de facilitar los calculos necesarios para el desarrollo  de las matricez  Denavit-Hartenberg
 
