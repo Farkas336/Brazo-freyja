@@ -11,7 +11,7 @@ Edward Novella Echeverria
 Diego Fernando Perdomo Vargas
 
 Gerardo Sanchez Caviglia
-/
+
 
 
 Brazo robotico
