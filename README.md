@@ -104,3 +104,5 @@ Para esto se pueden usar dos tipos de análisis:
 >Cinemática inversa: Que es la determinación de la configuración que debe adoptar el robot para una posición y orientación del extremo conocidas.
 
 ![alt text](https://github.com/Farkas336/Brazo-freyja/blob/main/Imagenes/unnamed.jpg)
+
+![alt text](https://onedrive.live.com/?cid=1B8071BC5763AD0F&id=1B8071BC5763AD0F%21979&parId=1B8071BC5763AD0F%21151&o=OneUp)
