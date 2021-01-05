@@ -92,5 +92,3 @@ Para esto se pueden usar dos tipos de análisis:
 >Cinemática directa: Es determinar la posición y orientación del extremo final del robot, con respecto a un sistema de coordenadas de referencia, conociendo los valores de las articulaciones. Se conoce los valores de los diferentes ángulos de los ejes del mismo a través del algoritmo de Denavit-Hartenberg.
 
 >Cinemática inversa: Que es la determinación de la configuración que debe adoptar el robot para una posición y orientación del extremo conocidas.
-
-https://camo.githubusercontent.com/57e1d8b073fd84d759f5e8833c51f9f33d0726cf10014d659aff840227749ebb/68747470733a2f2f37382e6d656469612e74756d626c722e636f6d2f61326231633631386139366263316137663835633064663063326265636262382f74756d626c725f6d726f776368334d496e317362617633626f315f3530302e676966
