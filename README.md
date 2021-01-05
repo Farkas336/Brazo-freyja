@@ -2,20 +2,19 @@
 
 Integrantes de proyecto:
 ```
-
--Alejandro de Leo Martinez
-
-
--Daniel Sebastian Mejía Jasso
+- Alejandro de Leo Martinez
 
 
--Edward Novella Echeverria
+- Daniel Sebastian Mejía Jasso
 
 
--Diego Fernando Perdomo Vargas
+- Edward Novella Echeverria
 
 
--Gerardo Sanchez Caviglia
+- Diego Fernando Perdomo Vargas
+
+
+- Gerardo Sanchez Caviglia
 ```
 
 Brazo robotico
