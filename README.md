@@ -2,15 +2,15 @@
 
 ***Integrantes de proyecto:***
 ```
-*- Alejandro de Leo Martinez*
+- Alejandro de Leo Martinez*
 
-*- Daniel Sebastian Mejía Jasso*
+- Daniel Sebastian Mejía Jasso*
 
-*- Edward Novella Echeverria*
+- Edward Novella Echeverria*
 
-*- Diego Fernando Perdomo Vargas*
+- Diego Fernando Perdomo Vargas*
 
-*- Gerardo Sanchez Caviglia*
+- Gerardo Sanchez Caviglia*
 ```
 
 # Introducción 
