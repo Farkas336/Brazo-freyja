@@ -1,6 +1,6 @@
 # Brazo-freyja
 
-# Integrantes de proyecto:
+Integrantes de proyecto:
 
 Alejandro de Leo Martinez
 
@@ -11,7 +11,7 @@ Edward Novella Echeverria
 Diego Fernando Perdomo Vargas
 
 Gerardo Sanchez Caviglia
-
+/
 
 
 Brazo robotico
@@ -46,7 +46,7 @@ se puede usar cualquier servo que se quiera
 ![alt text](https://raw.githubusercontent.com/Farkas336/Brazo-freyja/main/Diagramas/02-19.jpg)
 
 
-Parte eléctrica:
+# Parte eléctrica:
 
 Servos:
 Para dar movimiento al brazo robótico imprimible se utilizan tres servomotores modelo S3003 y uno modelo S3305 todos ellos de la marca Futaba. Éstos se ocupan del movimiento de la base y los dos primeros eslabones. Además el brazo robótico cuenta con cuatro micro-servomotores cuyo modelo es el SG90 de TowerPro. Éste modelo, de reducido peso y tamaño, se emplea en el último eslabón y en la muñeca del robot. 
@@ -65,4 +65,7 @@ Arduino UNO:
 Utiliza un microprocesador ATMEGA328 del fabricante Atmel. Se han utilizado las salidas digitales y PWM para el control de los servomotores. 
 La alimentación y la transmisión de datos desde el ordenador hacia el microcontrolador se realizan mediante un cable USB. Los servomotores necesitan para su funcionamiento una señal de control de tipo PWM. El microcontrolador dispone de 14 salidas digitales de las cuales 6 proporcionan dicha señal PWM. No obstante, se podrán generar más salidas de ese tipo mediante el software interno.
 
+# Parte de software
 
+se esta usando una integracion entre mathlab y arduino, mediante librerias en ambos, los cuales les permiten una comunicacion serial de control
+se hace uso de la paqueteria de tool box de Peter Core, el cual nos permite simular el como se veria el sistema y sus movimientos
