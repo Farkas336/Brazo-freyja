@@ -1,7 +1,7 @@
 # Brazo-freyja
 
-**Integrantes de proyecto:**
-
+Integrantes de proyecto:
+```
 
 Alejandro de Leo Martinez
 
@@ -16,7 +16,7 @@ Diego Fernando Perdomo Vargas
 
 
 Gerardo Sanchez Caviglia
-
+```
 
 Brazo robotico
 
@@ -68,5 +68,3 @@ Este servo puede producir un consumo de alta corriente de sus baterías. Si usa 
 Arduino UNO:
 Utiliza un microprocesador ATMEGA328 del fabricante Atmel. Se han utilizado las salidas digitales y PWM para el control de los servomotores. 
 La alimentación y la transmisión de datos desde el ordenador hacia el microcontrolador se realizan mediante un cable USB. Los servomotores necesitan para su funcionamiento una señal de control de tipo PWM. El microcontrolador dispone de 14 salidas digitales de las cuales 6 proporcionan dicha señal PWM. No obstante, se podrán generar más salidas de ese tipo mediante el software interno.
-
-
