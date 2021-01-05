@@ -20,12 +20,12 @@
 - [ ] prueba
 - [x] prueba2
 
-Brazo robotico
+***Brazo robotico***
 
 Aqui se va a realizar un programa en Matlab con el que se va a agregar funciones de Denavit-Hatenberg 
 
 
- ![alt text](https://raw.githubusercontent.com/Farkas336/Brazo-freyja/main/Imagenes/brazo-rob%C3%B3tico-aislado-en-el-fondo-blanco-ilustraci%C3%B3n-d-116378600.jpg)
+![alt text](https://raw.githubusercontent.com/Farkas336/Brazo-freyja/main/Imagenes/brazo-rob%C3%B3tico-aislado-en-el-fondo-blanco-ilustraci%C3%B3n-d-116378600.jpg)
 
 Esta serie de codigo tiene el objetivo de facilitar los calculos necesarios para el desarrollo  de las matricez  Denavit-Hartenberg
 
@@ -52,7 +52,7 @@ se puede usar cualquier servo que se quiera
 ![alt text](https://raw.githubusercontent.com/Farkas336/Brazo-freyja/main/Diagramas/02-19.jpg)
 
 
-Parte eléctrica:
+# Parte eléctrica:
 
 Servos:
 Para dar movimiento al brazo robótico imprimible se utilizan tres servomotores modelo S3003 y uno modelo S3305 todos ellos de la marca Futaba. Éstos se ocupan del movimiento de la base y los dos primeros eslabones. Además el brazo robótico cuenta con cuatro micro-servomotores cuyo modelo es el SG90 de TowerPro. Éste modelo, de reducido peso y tamaño, se emplea en el último eslabón y en la muñeca del robot. 
