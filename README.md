@@ -72,24 +72,24 @@ Utiliza un microprocesador ATMEGA328 del fabricante Atmel. Se han utilizado las 
 La alimentación y la transmisión de datos desde el ordenador hacia el microcontrolador se realizan mediante un cable USB. Los servomotores necesitan para su funcionamiento una señal de control de tipo PWM. El microcontrolador dispone de 14 salidas digitales de las cuales 6 proporcionan dicha señal PWM. No obstante, se podrán generar más salidas de ese tipo mediante el software interno.
 
 
- Morfología del robot:
+# Morfología del robot:
 El robot puede estar formado por:
 Estructura mecánica, sistema de accionamiento y sistema de control.
 
-	Estructura mecánica: 
+>Estructura mecánica: 
 Formado por una serie de eslabones unidos mediante articulaciones que permiten un movimiento relativo entre cada dos eslabones consecutivos. La mecánica guarda cierta similitud con la anatomía del brazo humano. El movimiento entre las articulaciones es de rotación. Este movimiento está limitado a los 180° de rotación de los servomotores utilizados.
 
-Sistema de accionamiento:
+>Sistema de accionamiento:
 El accionamiento se utiliza a través de la aplicación de matlab, en este se ingresa los ángulos que quiere que el robot se mueva. Por otra parte se utiliza un sistema de comunicación de datos a través de un puerto común con el arduino uno, el cual es simulado en Tinkercad.
 
-Sistema de control:
+>Sistema de control:
 El sistema de control está formado por un microcontrolador Arduino Uno.Este recibe el mensaje enviado de matlab y establece el comportamiento correspondiente de los servomotores.
 
-Cinemática:
+# Cinemática:
 Con esto se refiere a la orientación y posición del extremo final del robot.
 Para esto se pueden usar dos tipos de análisis:
 
-Cinemática directa: Es determinar la posición y orientación del extremo final del robot, con respecto a un sistema de coordenadas de referencia, conociendo los valores de las articulaciones. Se conoce los valores de los diferentes ángulos de los ejes del mismo a través del algoritmo de Denavit-Hartenberg.
+>Cinemática directa: Es determinar la posición y orientación del extremo final del robot, con respecto a un sistema de coordenadas de referencia, conociendo los valores de las articulaciones. Se conoce los valores de los diferentes ángulos de los ejes del mismo a través del algoritmo de Denavit-Hartenberg.
 
-Cinemática inversa: Que es la determinación de la configuración que debe adoptar el robot para una posición y orientación del extremo conocidas.
+>Cinemática inversa: Que es la determinación de la configuración que debe adoptar el robot para una posición y orientación del extremo conocidas.
 
