@@ -106,6 +106,6 @@ Para esto se pueden usar dos tipos de análisis:
 ![alt text](https://github.com/Farkas336/Brazo-freyja/blob/main/Imagenes/unnamed.jpg)
 
 
-# Modelo en 3D
+# Simulación modelo en 3D
 ![alt text](https://github.com/Farkas336/Brazo-freyja/blob/main/Imagenes/simu1.png)
 ![alt text](https://github.com/Farkas336/Brazo-freyja/blob/main/Imagenes/simu2.png)
